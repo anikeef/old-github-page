@@ -1,0 +1,17 @@
+* {
+  font-family: Raleway, sans-serif;
+}
+
+body {
+  padding-left: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: #347CD1;
+}
+
+h1 {
+  font-size: 64px;
+  font-weight: 200;
+}
