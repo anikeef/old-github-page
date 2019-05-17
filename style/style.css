@@ -45,6 +45,7 @@ body {
 
 a {
   text-decoration: none;
+  color: #00C2FF;
 }
 
 h1 {
@@ -118,6 +119,14 @@ h3 {
 .logo {
   height: 30px;
   margin-right: 10px;
+}
+
+/********** Footer **********/
+
+.main-footer {
+  background-color: #333;//linear-gradient(90deg, #347CD1, #6597F8);
+  padding: 30px;
+  color: white;
 }
 
 /*************** Individual projects ***************/
