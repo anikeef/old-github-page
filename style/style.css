@@ -86,7 +86,7 @@ h2 {
   padding: 40px 50px;
 }
 
-.project-header {
+.project > header {
   padding-bottom: 30px;
   display: flex;
   align-items: center;
@@ -97,18 +97,18 @@ h3 {
   font-weight: 400;
 }
 
-.description {
+.project p {
   line-height: 140%;
   width: 80%;
 }
 
-.project-footer {
+.project > footer {
   padding: 30px 0 0;
   display: flex;
   align-items: center;
 }
 
-.project-link {
+.project > footer > a {
   padding-right: 50px;
   font-weight: 700;
   display: flex;
@@ -135,7 +135,7 @@ h3 {
   padding-top: 35px;
 }
 
-#problems .project-header .logo {
+#problems header .logo {
   height: 25px;
 }
 
@@ -152,4 +152,20 @@ h3 {
 
 .orange {
   color: #F68726;
+}
+
+/********** CodeBreaker **********/
+
+#codebreaker {
+  background-color: #F2F2F2;
+}
+
+.blue {
+  color: #2F80ED;
+}
+
+/********** CodeBreaker **********/
+
+#sketch {
+  background-color: #F2F2F2;
 }
