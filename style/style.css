@@ -119,6 +119,7 @@ h3 {
 .logo {
   height: 30px;
   margin-right: 10px;
+  object-fit: cover;
 }
 
 /********** Footer **********/
