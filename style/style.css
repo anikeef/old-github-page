@@ -164,8 +164,18 @@ h3 {
   color: #2F80ED;
 }
 
-/********** CodeBreaker **********/
+/********** Sketch **********/
 
 #sketch {
   background-color: #F2F2F2;
+}
+
+/********** Sketch **********/
+
+#pomodoro {
+  //background-color: #3F4347;
+}
+
+#pomodoro h3 {
+  font-weight: 700;
 }
