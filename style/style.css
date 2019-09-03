@@ -99,7 +99,7 @@ h3 {
 }
 
 .project p {
-  line-height: 140%;
+  line-height: 150%;
   width: 80%;
 }
 
@@ -125,7 +125,7 @@ h3 {
 /********** Footer **********/
 
 .main-footer {
-  background-color: #333;//linear-gradient(90deg, #347CD1, #6597F8);
+  background-color: #333;
   padding: 30px;
   color: white;
 }
@@ -181,13 +181,19 @@ h3 {
   background-color: #F2F2F2;
 }
 
-/********** Sketch **********/
-
-#pomodoro {
-  //background-color: #3F4347;
-}
+/********** Pomodoro **********/
 
 #pomodoro h3 {
+  font-weight: 700;
+}
+
+/********** Brick escape **********/
+
+#brick-escape {
+  background-color: #F2F2F2;
+}
+
+#brick-escape h3 {
   font-weight: 700;
 }
 
